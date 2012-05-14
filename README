@@ -1,0 +1,12 @@
+Youmint api
+By Narendra Rajput
+
+
+To get started first you need an account on youmint so register an account there.
+Then simply place the Sms.java in the path of your file.
+Simply use the function Sms.send() with your registered username password the person to whom you want to send the message and the actual  message.
+I have included a sample file A.java to get you started.
+Compile these files using JDK
+Check it out.
+
+Enjoy....................!!!!!!!!!!
